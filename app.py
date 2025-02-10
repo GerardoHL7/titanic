@@ -3,7 +3,7 @@ import joblib
 import pandas as pd
 
 # Cargamos nuestro modelo entrenado
-model = joblib.load('./titanic_modelo.pkl/')
+model = joblib.load("./titanic_modelo.pkl/")
 
 # Título de la aplicación
 st.title('Predicción de Supervivencia en el Titanic')
