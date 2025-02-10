@@ -2,6 +2,3 @@ streamlit
 pandas
 joblib
 scikit-learn
-flask
-request
-jsonify
